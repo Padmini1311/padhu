@@ -4,6 +4,8 @@ Asciidoctor is an open source text processor and publishing tool for converting 
 
 Follow these steps to install Ruby:
 
+Follow the steps:
+
 . Go to https://rubyinstaller.org/ and click *Download*.
 . Download the latest version.
 
